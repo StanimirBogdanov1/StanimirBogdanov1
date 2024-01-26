@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://github.com/StanimirBogdanov1/StanimirBogdanov1/assets/151448770/bddc4c1b-51a6-4c27-9689-cb76f7f501f2" width="200"/>
 </div>
-<br>
 <h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
