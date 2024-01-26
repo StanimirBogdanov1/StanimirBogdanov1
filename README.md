@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://github.com/StanimirBogdanov1/StanimirBogdanov1/assets/151448770/4297350b-0a8f-4c45-b488-7526d1a937cd" width="200"/>
+  <img src="https://github.com/StanimirBogdanov1/StanimirBogdanov1/assets/151448770/bddc4c1b-51a6-4c27-9689-cb76f7f501f2" width="200"/>
 </div>
+
