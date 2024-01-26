@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **StanimirBogdanov1/StanimirBogdanov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://github.com/StanimirBogdanov1/StanimirBogdanov1/assets/151448770/4297350b-0a8f-4c45-b488-7526d1a937cd" width="200"/>
+</div>
